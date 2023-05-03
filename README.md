@@ -1,2 +1,1 @@
-# typescript
-# typescript
+# rehman's typescript repo 
